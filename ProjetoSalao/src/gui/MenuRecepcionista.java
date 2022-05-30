@@ -18,7 +18,7 @@ public class MenuRecepcionista extends javax.swing.JFrame {
        
          
         setExtendedState(MAXIMIZED_BOTH);
-        setTitle("Recepcionista");
+        setTitle("Cliente");
         
  
         initComponents();
@@ -37,7 +37,7 @@ public class MenuRecepcionista extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("RECEPICIONISTA");
+        jLabel1.setText("CLIENTE");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
